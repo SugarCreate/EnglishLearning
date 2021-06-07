@@ -111,3 +111,37 @@ British (from room) 去上洗手间 qù shàng   xǐshǒujiān
 达到最大限度的 dádào zuì dà xiàndù de  
 ▸ capacity attendance was recorded at the AGM  
 本次年会座无虚席  
+
+
+prime
+
+美: [praɪm] 英: [praɪm] n.盛年；年富力强的时期；鼎盛时期adj.主要的；首要的；基本的；优质的v.事先指点；使（某人）做好准备；把（事物）准备好adv.妙极网络春心荡漾；质数；最好的词形变换
+
+
+voltage
+
+美: [ˈvoʊltɪdʒ]英: [ˈvəʊltɪdʒ]
+n.电压；伏特数
+
+
+Annotations
+
+n.注释；注解；附注；评注
+
+
+extend
+
+美: [ɪkˈstend]
+v.扩展；延长；扩大；提供
+
+
+iterable
+可迭代，可遍历的对象
+
+
+reverse
+
+美: [rɪˈvɜrs]英: [rɪˈvɜː(r)s]
+n.反面；背面；倒退；相反的情况（或事物）
+v.颠倒；倒车；撤销；彻底转变
+adj.相反的；反面的；反向的；背面的
